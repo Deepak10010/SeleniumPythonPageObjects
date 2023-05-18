@@ -1,0 +1,2 @@
+[32mINFO    [0m Testcases.test_signup:test_signup.py:16 Test Do Sign up started
+[32mINFO    [0m Testcases.test_signup:test_signup.py:26 Test Do Sign up successfully executed

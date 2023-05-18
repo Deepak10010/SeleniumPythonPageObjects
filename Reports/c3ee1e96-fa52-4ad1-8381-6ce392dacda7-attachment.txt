@@ -1,0 +1,2 @@
+INFO     Testcases.test_signup:test_signup.py:16 Test Do Sign up started
+INFO     Testcases.test_signup:test_signup.py:26 Test Do Sign up successfully executed

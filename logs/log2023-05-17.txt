@@ -1,0 +1,70 @@
+2023-05-17 17:15:09,776 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:17:14,560 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:20:04,956 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:26:46,568 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:31:04,430 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:37:12,016 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:40:22,856 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:50:12,438 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:52:32,184 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 17:55:53,986 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:03:36,690 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:03:37,755 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:33:08,743 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:33:09,860 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:33:28,081 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:33:28,762 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:44:09,996 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:44:11,190 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:44:29,483 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:44:30,107 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:56:50,426 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:56:51,591 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 18:57:09,885 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 18:57:10,627 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:07:12,530 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:07:13,782 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:07:31,718 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:07:32,287 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:10:24,620 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:10:42,607 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:12:19,104 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:12:20,406 - test_signup.py:[19] - [INFO] - Entering name
+2023-05-17 19:12:20,406 - test_signup.py:[20] - [INFO] - Entering Phone Number
+2023-05-17 19:12:20,406 - test_signup.py:[21] - [INFO] - Entering Email
+2023-05-17 19:12:20,406 - test_signup.py:[22] - [INFO] - Entering Country
+2023-05-17 19:12:37,175 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:12:37,723 - test_signup.py:[19] - [INFO] - Entering name
+2023-05-17 19:12:37,723 - test_signup.py:[20] - [INFO] - Entering Phone Number
+2023-05-17 19:12:37,723 - test_signup.py:[21] - [INFO] - Entering Email
+2023-05-17 19:12:37,723 - test_signup.py:[22] - [INFO] - Entering Country
+2023-05-17 19:13:12,922 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:13:14,146 - test_signup.py:[19] - [INFO] - Entering name
+2023-05-17 19:13:14,146 - test_signup.py:[20] - [INFO] - Entering Phone Number
+2023-05-17 19:13:14,146 - test_signup.py:[21] - [INFO] - Entering Email
+2023-05-17 19:13:14,146 - test_signup.py:[22] - [INFO] - Entering Country
+2023-05-17 19:13:14,146 - test_signup.py:[23] - [INFO] - Entering city
+2023-05-17 19:13:14,146 - test_signup.py:[24] - [INFO] - Entering username
+2023-05-17 19:13:14,146 - test_signup.py:[25] - [INFO] - Entering password
+2023-05-17 19:13:14,146 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:13:32,313 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:13:32,860 - test_signup.py:[19] - [INFO] - Entering name
+2023-05-17 19:13:32,860 - test_signup.py:[20] - [INFO] - Entering Phone Number
+2023-05-17 19:13:32,861 - test_signup.py:[21] - [INFO] - Entering Email
+2023-05-17 19:13:32,862 - test_signup.py:[22] - [INFO] - Entering Country
+2023-05-17 19:13:32,862 - test_signup.py:[23] - [INFO] - Entering city
+2023-05-17 19:13:32,862 - test_signup.py:[24] - [INFO] - Entering username
+2023-05-17 19:13:32,863 - test_signup.py:[25] - [INFO] - Entering password
+2023-05-17 19:13:32,863 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:14:20,957 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:14:22,128 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 19:14:39,507 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 19:14:40,030 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 20:24:01,457 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 20:24:02,719 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 20:24:22,993 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 20:24:23,854 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 20:34:21,967 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 20:34:23,373 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
+2023-05-17 20:34:41,864 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2023-05-17 20:34:42,497 - test_signup.py:[26] - [INFO] - Test Do Sign up successfully executed
